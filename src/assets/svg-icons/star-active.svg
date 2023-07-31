@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14,5.17427885 C14,5.32572115 13.890625,5.46875 13.78125,5.578125 L10.7271635,8.55649038 L11.4507212,12.7632212 C11.4591346,12.8221154 11.4591346,12.8725962 11.4591346,12.9314904 C11.4591346,13.1502404 11.3581731,13.3521635 11.1141827,13.3521635 C10.9963942,13.3521635 10.8786058,13.3100962 10.7776442,13.2512019 L7,11.265625 L3.22235577,13.2512019 C3.11298077,13.3100962 3.00360577,13.3521635 2.88581731,13.3521635 C2.64182692,13.3521635 2.53245192,13.1502404 2.53245192,12.9314904 C2.53245192,12.8725962 2.54086538,12.8221154 2.54927885,12.7632212 L3.27283654,8.55649038 L0.210336538,5.578125 C0.109375,5.46875 0,5.32572115 0,5.17427885 C0,4.921875 0.260817308,4.82091346 0.471153846,4.78725962 L4.69471154,4.17307692 L6.58774038,0.344951923 C6.66346154,0.185096154 6.80649038,0 7,0 C7.19350962,0 7.33653846,0.185096154 7.41225962,0.344951923 L9.30528846,4.17307692 L13.5288462,4.78725962 C13.7307692,4.82091346 14,4.921875 14,5.17427885 Z" id="path-1"></path>
+    </defs>
+    <g id="for-export-to-Zeplin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Items-Img&amp;F-G-MoreFolders" transform="translate(-967.000000, -260.000000)">
+            <g id="Group-24" transform="translate(211.000000, 60.000000)">
+                <g id="Group-17" transform="translate(730.000000, 123.000000)">
+                    <g id="Stacked-Group" transform="translate(20.000000, 67.000000)">
+                        <g id="Stacked-Group-3">
+                            <g id="Stacked-Group">
+                                <g id="Group-26">
+                                    <g id="icon-star" transform="translate(6.000000, 10.863636)">
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <use id="Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                        <g id="color/primiary/orange" mask="url(#mask-2)" fill="#F04C23" fill-rule="nonzero">
+                                            <g transform="translate(-2.000000, -2.000000)" id="Rectangle-8">
+                                                <rect x="0" y="0" width="18" height="18"></rect>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

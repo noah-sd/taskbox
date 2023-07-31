@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/add</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.851,2.942 L13.883,2.942 C14.24,2.942 14.529,3.231 14.528,3.588 C14.528,3.944 14.239,4.234 13.882,4.234 L13.06,4.234 L13.06,13.883 C13.06,15.05 12.111,16 10.943,16 L3.589,16 C2.421,16 1.472,15.05 1.472,13.883 L1.472,4.234 L0.646,4.234 C0.289,4.234 0,3.944 0,3.588 C0,3.231 0.289,2.942 0.646,2.942 L3.678,2.942 L3.678,2.117 C3.678,0.949 4.627,0 5.795,0 L8.736,0 C9.902,0 10.853,0.95 10.851,2.117 L10.851,2.942 Z M9.559,2.942 L9.559,2.117 C9.559,1.662 9.188,1.293 8.735,1.293 L5.794,1.293 C5.339,1.293 4.97,1.662 4.97,2.117 L4.97,2.942 L9.559,2.942 Z M11.766,4.234 L2.764,4.234 L2.764,13.883 C2.764,14.338 3.133,14.707 3.588,14.707 L10.942,14.707 C11.397,14.707 11.766,14.338 11.766,13.883 L11.766,4.234 Z M5.795,6.619 C6.15,6.619 6.441,6.908 6.441,7.265 L6.441,11.677 C6.441,12.034 6.15,12.323 5.795,12.323 C5.438,12.323 5.149,12.034 5.149,11.677 L5.149,7.265 C5.149,6.908 5.438,6.619 5.795,6.619 Z M8.736,6.619 C9.092,6.619 9.383,6.908 9.382,7.265 L9.382,11.677 C9.382,12.034 9.091,12.323 8.736,12.323 C8.379,12.323 8.09,12.034 8.09,11.677 L8.09,7.265 C8.09,6.908 8.379,6.619 8.736,6.619 Z" id="path-1"></path>
+    </defs>
+    <g id="Version-G---approved" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Items-Img&amp;F-G-EmptyItem" transform="translate(-746.000000, -614.000000)">
+            <g id="Group-31" transform="translate(451.000000, 250.000000)">
+                <g id="Stacked-Group-3" transform="translate(0.000000, 330.000000)">
+                    <g id="Stacked-Group" transform="translate(0.000000, 24.000000)">
+                        <g id="Group-15" transform="translate(170.000000, 0.000000)">
+                            <g id="icon/add" transform="translate(125.000000, 10.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Combined-Shape" fill="#C4CCD5" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                <g id="color/secondary/white" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g transform="translate(-2.000000, -1.000000)" id="Rectangle-8">
+                                        <rect x="0" y="0" width="18" height="18"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
